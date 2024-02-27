@@ -1,16 +1,32 @@
-### Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**SghairiYoussef/SghairiYoussef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Youssef Sghairi, a dedicated software engineering student at INSAT with a burning passion for game development. 🚀 I'm constantly on the lookout for exciting opportunities to expand my knowledge and skills in the world of coding and game design.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Software Engineering at INSAT.
+- 🕹️ Enthusiastic about game development and always up for a coding challenge.
+- 📚 Eager to learn and explore new technologies in the ever-evolving tech landscape.
+
+## 💻 What I'm Working On
+
+Currently, I'm delving into various game development projects to apply and enhance my skills. Whether it's coding mechanics, designing immersive worlds, or optimizing performance, I'm always striving to create captivating gaming experiences.
+I'm also diving into web development and working on various projects looking to enhance my skills.
+
+## 🚀 Skills
+
+- **Programming Languages:** C, C++, Java, Python, PHP, Lua
+- **Game Development:** Unity, LOVE2D 
+- **Web Development:** HTML, CSS, JavaScript, php, Symfony, React.js, Node.js
+
+## 🌱 Learning Journey
+
+I believe in continuous learning, and my journey as a software engineer is a testament to that. I'm actively seeking opportunities to collaborate on exciting projects and contribute to the ever-growing developer community.
+
+## 🤝 Let's Connect
+
+I'm open to collaborations, discussions, and connecting with fellow enthusiasts. Feel free to reach out to me for a coding challenge, game development chat, or anything related to software engineering.
+
+📧 Email: youssef.sghairi@insat.rnu.tn
+
+Let's code, create, and level up together! 🚀✨
