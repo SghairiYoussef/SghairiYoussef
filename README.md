@@ -17,7 +17,7 @@ I'm also diving into web development and working on various projects looking to 
 
 - **Programming Languages:** C, C++, Java, Python, PHP, Lua
 - **Game Development:** Unity, LOVE2D 
-- **Web Development:** HTML, CSS, JavaScript, php, Symfony, React.js, Node.js
+- **Web Development:** HTML, CSS, JavaScript, php, Symfony, React.js, Vue.js, Node.js
 
 ## 🌱 Learning Journey
 
