@@ -15,8 +15,9 @@ I'm also diving into web development and working on various projects looking to 
 
 ## 🚀 Skills
 
-- **Programming Languages:** C, C++, Java, Python, PHP, Lua
-- **Game Development:** Unity, LOVE2D 
+- **Programming Languages:** C, C++, C#, Java, Python, PHP, Lua, JavaScript, 
+- **Database Management:** SQL, PostgreSQL, Oracle
+- **Game Development:** Godot, Unity, LOVE2D 
 - **Web Development:** HTML, CSS, JavaScript, php, Symfony, React.js, Vue.js, Node.js
 
 ## 🌱 Learning Journey
