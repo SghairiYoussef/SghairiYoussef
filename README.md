@@ -16,8 +16,8 @@ All when researching AI and expanding my knowledge on the topic.
 
 ##  Skills
 
-- **Programming Languages:** C#, Java, Python, JavaScript, 
-- **Database Management:** SQL, PostgreSQL, MangoDB
+- **Programming Languages:** C#, Java, Python, C++ 
+- **Database Management:** PLPGSQL, PostgreSQL, MongoDB
 - **Game Development:** Godot, Unity, LOVE2D, KaboomJS
 - **Web Development FrameWorks:** React.js, Vue.js, .NET, Symfony, SpringBoot 
 
