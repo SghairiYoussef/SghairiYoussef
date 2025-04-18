@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Youssef Sghairi</h1>
 <h3 align="center">A Software Engineering Student @ INSAT</h3>
 
-- 🔭 I’m currently working on **An AI-powered Fitness App Using Spring Boot with a Microservices Architecture**
+- 🔭 I’m currently working on **An AI-powered Fitness App Using Spring Boot with a Microservices Architecture** — a solution designed to help users track their workouts and progress using real-time AI analysis.
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://sghairiportfolio.vercel.app/#projects]
+  
+- I'm passionate about building cutting-edge software that combines technology and creativity, particularly in AI, game development, and backend systems.
 
 - 📫 You can reach me @ **youssef.sghairi@insat.ucar.tn**
 
