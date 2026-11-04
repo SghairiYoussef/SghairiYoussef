@@ -1,11 +1,11 @@
 ### Youssef Sghairi
 
-Software engineer — full stack, backend, applied AI. Final-year Software Engineering student at INSAT (Tunis), and full stack engineer at **SpecTraceAI**.
+Software engineer — full stack, backend, applied AI. Final-year Software Engineering student at INSAT (Tunis) with 18 months part-time experience.
 
 I build the parts of a product other parts depend on: integrations, event pipelines, access control — and the screens on top.
 
 **Looking for a 6-month end-of-studies internship (PFE) from February 2027**.\
-[youssef.sghairi@insat.ucar.tn](mailto:youssef.sghairi@insat.ucar.tn) · [LinkedIn](https://linkedin.com/in/youssef-sghairi) · [Portfolio](https://sghairiportfolio.vercel.app)
+[youssef.sghairi@insat.ucar.tn](mailto:youssef.sghairi@insat.ucar.tn) · [LinkedIn](https://linkedin.com/in/youssef-sghairi) · [Portfolio](https://youssefsghairiportfolio.vercel.app)
 
 ---
 
